@@ -10,7 +10,6 @@ jawab: print ini sebagai fungsi berguna untuk mencetak output program layar.
 
 3. jelaskan arti dari =>print (hello word) pada PL pytho
 
-
  jawab: print (hello word) ini bahasa umum yang digunakan untuk pemula dalam bahasa pemrograman,mengapa hello word? karena hello word adalah bahasa yang mendunia dan digunakan oleh semua bahasa pemrograman.
  
  4.praktikan cara eksekusi PL python pada:
@@ -24,7 +23,7 @@ jawab: print ini sebagai fungsi berguna untuk mencetak output program layar.
  * jika sudah pencet entet,dan scritp akan di jalankan
  * jika ingin keluar dari python shell ketik exit() 
  
- B VS code 
+ B.vs code 
  * pasang eksistensi python divs code
  * buat folder codingan yang akan dibuat
  * buka folder dan jalankan menggunakan eksistensi,klik tanda run dipojok atas kanan
