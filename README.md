@@ -24,6 +24,7 @@ jawab: print ini sebagai fungsi berguna untuk mencetak output program layar.
  * jika ingin keluar dari python shell ketik exit() 
  
  B.vs code 
+ 
  * pasang eksistensi python divs code
  * buat folder codingan yang akan dibuat
  * buka folder dan jalankan menggunakan eksistensi,klik tanda run dipojok atas kanan
