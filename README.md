@@ -23,8 +23,7 @@ jawab: print ini sebagai fungsi berguna untuk mencetak output program layar.
  * jika sudah pencet entet,dan scritp akan di jalankan
  * jika ingin keluar dari python shell ketik exit() 
  
- B.vs code 
- 
+ B.VS code
  * pasang eksistensi python divs code
  * buat folder codingan yang akan dibuat
  * buka folder dan jalankan menggunakan eksistensi,klik tanda run dipojok atas kanan
